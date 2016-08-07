@@ -5,7 +5,7 @@ title: About
 
 Hi, I'm [Prem Ganeshkumar](mailto:ganeprem at gmail). I'm a Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City.
 
-Before this, I was a Masters student in Computer Science at [Columbia University](http://www.columbia.edu/), New York City. My concentration was in Natural Language Processing.
+Before this, I was a Masters student in Computer Science at [Columbia University](http://www.columbia.edu/). My concentration was in Natural Language Processing.
 
 2011-2014, I worked on the [Wish List](http://amazon.com/wishlist) team at [Amazon.com](http://www.amazon.com/) in Seattle.
 
