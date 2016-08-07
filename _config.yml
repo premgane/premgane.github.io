@@ -1,6 +1,8 @@
 # Dependencies
-highlighter:      rouge
 gems:             [jekyll-paginate]
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Permalinks
 permalink:        pretty
