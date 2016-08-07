@@ -14,3 +14,5 @@ I did my undergrad at [University of Michigan, Ann Arbor](http://umich.edu/). Th
 You can find my old blog [here](http://premgane.wordpress.com) and my Instagram [here](http://instagram.com/premtagram).
 
 To prove my identity, this is my [Keybase](https://keybase.io/pgkr).
+
+This site uses the [Lanyon](http://lanyon.getpoole.com/) theme.
