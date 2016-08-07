@@ -7,12 +7,12 @@ Hi, I'm [Prem Ganeshkumar](mailto:ganeprem at gmail). I'm a Natural Language Pro
 
 Before this, I was a Masters student in Computer Science at [Columbia University](http://www.columbia.edu/), New York City. My concentration was in Natural Language Processing.
 
-Previously, I worked on the Social Shopping team at [Amazon.com](http://www.amazon.com/) in Seattle. Specifically, I worked on the [Amazon Wish List](http://amazon.com/wishlist).
+2011-2014, I worked on the [Wish List](http://amazon.com/wishlist) team at [Amazon.com](http://www.amazon.com/) in Seattle.
 
-I did my undergrad at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked with the [CLAIR research group](http://clairlib.org/) as a research assistant.
+2008-2011, I did my undergrad in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked with the [CLAIR research group](http://clairlib.org/).
 
 You can find my old blog [here](http://premgane.wordpress.com) and my Instagram [here](http://instagram.com/premtagram).
 
 To prove my identity, this is my [Keybase](https://keybase.io/pgkr).
 
-This site uses the [Lanyon](http://lanyon.getpoole.com/) theme.
+This site uses the [Lanyon](https://github.com/poole/lanyon#readme) theme.
