@@ -12,8 +12,6 @@ categories: teams creativity deep-work
 
 [Here is a transcript.](https://genius.com/John-cleese-lecture-on-creativity-annotated)
 
-The gist of it is this:
-
 - Your mind works in 2 ways: open and closed. Each is important in some situations but not all.
 - Open mode is conducive to creativity and problem-solving. Set aside a separate duration of time and a separate focus-conducive space for this. This is called a space/time oasis.
 - During open mode, no idea is bad or off-limits. Encourage yourself to be absurd, impractical, and humorous when trying to solve a problem.
