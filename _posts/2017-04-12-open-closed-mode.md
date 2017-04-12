@@ -2,7 +2,7 @@
 layout:     post
 title:      Open & Closed Mode
 date:       2017-04-12 00:25:00
-summary:    How to be creative
+summary:    How to be creative.
 categories: teams creativity deep-work
 ---
 
