@@ -2,7 +2,7 @@
 layout:     post
 title:      The 10x Programmer
 date:       2017-05-09 23:16:00
-summary:    "The Unreasonable Effectiveness of Empathy"
+summary:    "10x Programmer Considered Harmful"
 categories: software-engineering programming
 ---
 
