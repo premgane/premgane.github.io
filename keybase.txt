@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/pgkr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://premgkumar.com
+  * I am pgkr (https://keybase.io/pgkr) on keybase.
+  * I have a public key ASAUuDMZmFRmKRdUsQsybJ5VbRPuxIH8bw6BAGw6VXiZAgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017322082ab211b605d880dfffe8803560609947714e8092d73d78b68b6200b74d0a",
+      "host": "keybase.io",
+      "kid": "012014b83319985466291754b10b326c9e556d13eec481fc6f0e81006c3a557899020a",
+      "uid": "62e361ded93b696d478f432555816700",
+      "username": "pgkr"
+    },
+    "merkle_root": {
+      "ctime": 1509680128,
+      "hash": "4bfaed7765a9397a80b957ab24f76d113abca62c989047fe26ef70364b1117f748ebb65d27bbad4adc7dcffa7cb5d2f2852bd12814e78e5e33d67ac4e331991a",
+      "hash_meta": "56e90ed3a47c6530be9e5bfd5446294f763c47dd14eb35c6e411c408d7ae5e32",
+      "seqno": 1661318
+    },
+    "service": {
+      "hostname": "premgkumar.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509680143,
+  "expire_in": 504576000,
+  "prev": "f1aa30df325446dcd58d00763816d4d732982490e04bc9050ed295c41463140d",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFLgzGZhUZikXVLELMmyeVW0T7sSB/G8OgQBsOlV4mQIKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzMyMjA4MmFiMjExYjYwNWQ4ODBkZmZmZTg4MDM1NjA2MDk5NDc3MTRlODA5MmQ3M2Q3OGI2OGI2MjAwYjc0ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTRiODMzMTk5ODU0NjYyOTE3NTRiMTBiMzI2YzllNTU2ZDEzZWVjNDgxZmM2ZjBlODEwMDZjM2E1NTc4OTkwMjBhIiwidWlkIjoiNjJlMzYxZGVkOTNiNjk2ZDQ3OGY0MzI1NTU4MTY3MDAiLCJ1c2VybmFtZSI6InBna3IifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDk2ODAxMjgsImhhc2giOiI0YmZhZWQ3NzY1YTkzOTdhODBiOTU3YWIyNGY3NmQxMTNhYmNhNjJjOTg5MDQ3ZmUyNmVmNzAzNjRiMTExN2Y3NDhlYmI2NWQyN2JiYWQ0YWRjN2RjZmZhN2NiNWQyZjI4NTJiZDEyODE0ZTc4ZTVlMzNkNjdhYzRlMzMxOTkxYSIsImhhc2hfbWV0YSI6IjU2ZTkwZWQzYTQ3YzY1MzBiZTllNWJmZDU0NDYyOTRmNzYzYzQ3ZGQxNGViMzVjNmU0MTFjNDA4ZDdhZTVlMzIiLCJzZXFubyI6MTY2MTMxOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwcmVtZ2t1bWFyLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDk2ODAxNDMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZjFhYTMwZGYzMjU0NDZkY2Q1OGQwMDc2MzgxNmQ0ZDczMjk4MjQ5MGUwNGJjOTA1MGVkMjk1YzQxNDYzMTQwZCIsInNlcW5vIjozMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECuBhJ1CgqT2xiKja7VeHwdGLlc4HfMW0e+G8R4ArMmBiTt/Pu9BybPERtdhr8w0MAMEuKFTtPSpNixXx3QjJYCqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgHOlw9O+6rfQynJsIXr7b+5N/x/WEUsDBz7ziaNB/QBKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pgkr
+
+==================================================================
