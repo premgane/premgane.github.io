@@ -12,7 +12,7 @@ Basically, it contains instructions to set up PyEnv in a way that we have one Ju
 
 One caveat: make sure your `~/.bashrc` or `~/.zshrc` does not contain any lines that mess with `$PYTHONPATH`. I haven't been able to get this setup working if I have something like the following in my `~/.zshrc`:
 
-```bash
+```
 PYTHONPATH=/Users/prem/whatever/:$PYTHONPATH
 ```
 
