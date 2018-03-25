@@ -10,7 +10,7 @@ When hiring for an engineering position, most people would turn to the internet 
 
 For example, the hiring process at a big-name software company might be a full day of five or six whiteboard coding interviews with a lunch break in the middle. Afterwards, the hiring committee would meet to vote on whether the candidate passed the hiring bar.
 
-In the case of a startup with fewer than 15 employees total, some of whom are non-technical folks, this hiring process does not work. We simply don't have enough engineers to do all-day interviews. Even if we did, engineers would spend a disporportionate amount of time interviewing and not working on our technical tasks.
+In the case of a startup with fewer than 15 employees total, some of whom are non-technical folks, this hiring process does not work. We simply don't have enough engineers to do all-day interviews. Even if we did, engineers would spend a disproportionate amount of time interviewing and not working on our technical tasks.
 
 So, what can we do? How do we design a pipeline to spend the least amount of time interviewing? How do we write questions that can give us the clearest picture of the candidate? How do we enable the candidate to reveal enough about their skills that we can accurately imagine what it would be like to work with them?
 
@@ -71,7 +71,7 @@ Regardless of how technical the position, nobody at a startup works in a vacuum.
 
 1. discuss deeply technical concepts in semi-technical language
 1. collaborate within a team comprised of members of varying technical skills, staying level-headed to work through conflicting opinions
-1. speak thoughtfully about a wide ranging set of topics, including the societal impact of the industry
+1. speak thoughtfully about a wide-ranging set of topics, including the societal impact of the industry
 1. demonstrate an ability to objectively analyze their own strengths and limitations
 
 We have found that the best way to test these skills is to isolate some non-technical questions into its own interview. For this interview, we use interviewers who aren't fully familiar with the concepts within the candidate's expertise. In a small startup, the candidate would be working closely with team members of varying backgrounds, so it's crucial that we see how well they can adapt their communication style.
@@ -104,6 +104,6 @@ The interviews earlier in the pipeline should be shorter than ones that come lat
 
 ## Closing thoughts
 
-The overarching philosophy of designing this pipeline, for me, was to start with the actual role and work backwards. I started by asking, "one year from now, what kind of person would we consider a successful hire for this role?" Then, I tried to design a pipeline that this person would pass with flying colors, while most others would at least show some red flags. By keeping the questions as close to the real problems as possible, we are removing possiblities that the questions are a poor selector of candidates.
+The overarching philosophy of designing this pipeline, for me, was to start with the actual role and work backwards. I started by asking, "one year from now, what kind of person would we consider a successful hire for this role?" Then, I tried to design a pipeline that this person would pass with flying colors, while most others would at least show some red flags. By keeping the questions as close to the real problems as possible, we are removing possibilities that the questions are a poor selector of candidates.
 
-It's challenging to talk about an interview pipeline I designed without giving away too many details about the acutal questions and topics we cover. However, I hope that by talking openly about the ideas that informed my decisions about the pipeline, it helps others in the startup community to design effective and empathetic interview pipelines for whatever role they need.
+It's challenging to talk about an interview pipeline I designed without giving away too many details about the actual questions and topics we cover. However, I hope that by talking openly about the ideas that informed my decisions about the pipeline, it helps others in the startup community to design effective and empathetic interview pipelines for whatever role they need.
