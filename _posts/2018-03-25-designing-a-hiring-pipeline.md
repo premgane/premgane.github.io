@@ -6,7 +6,7 @@ summary:    "The best practices at a large company may not work at a small-sized
 categories: startups hiring
 ---
 
-When hiring for an engineering position, most people would turn to the internet to get up to date on the latest best practices. Most of the guidelines and advice on the internet comes from large companies, so their advice is aimed at similarly large organizations.
+When hiring for an engineering position, most people would turn to the Internet to get up to date on the latest best practices. Most of the guidelines and advice on the Internet comes from large companies, so their advice is aimed at similarly large organizations.
 
 For example, the hiring process at a big-name software company might be a full day of five or six whiteboard coding interviews with a lunch break in the middle. Afterwards, the hiring committee would meet to vote on whether the candidate passed the hiring bar.
 
