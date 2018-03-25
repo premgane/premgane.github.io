@@ -84,13 +84,13 @@ These are some other guidelines that we have found useful in designing our pipel
 
 We should support the candidate and enable them to succeed as much as possible. The candidate and the interviewer are on the same team because they both want the position to be filled by someone who is a good fit. Furthermore, the interviewer is representing the company, and the candidate should walk away with a good feeling about the company regardless of how well they did in the interview. Kindness is key.
 
-### Inclusivity in hiring
+### Inclusivity
 
 Those who are designing the interviews should put effort into making the process as inclusive as possible. By neglecting inclusivity, we are unconsciously eliminating entire groups of people from being able to pass our interviews, even though many qualified individuals in those groups may be a good fit for the role. This is bad for the company and bad for those who are often excluded.
 
 These are some articles and blog posts that I found useful to get me started thinking about this: [1](https://work.qz.com/1095637/diversity-and-inclusion-a-guide-to-unbiased-hiring-from-quartz-at-work/), [2](https://www.ziprecruiter.com/blog/the-right-way-to-incorporate-diversity-hiring-goals-and-strategies/), [3](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5).
 
-### Take-home interviews are unethical
+### Take-home interviews
 
 Take-home tests are unfair to the candidate unless we pay them for the work. [The issues surrounding take-home tests are covered in this op-ed.](https://www.nytimes.com/2010/12/04/your-money/04shortcuts.html)
 
