@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Working Backwards
-date:       2018-03-25 14:25:00
+date:       2018-04-01 18:22:00
 summary:    "Starting with the results you want, and then building the path back to your current circumstances"
 categories: problem-solving
 ---
