@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How not to tell a fake when you don't see one
-date:       2018-12-18 23:07:00
+date:       2018-12-23 09:54:00
 summary:    "A master class on deep diving."
 categories: design photoshop
 ---
