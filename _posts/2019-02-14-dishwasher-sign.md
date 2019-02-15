@@ -37,7 +37,7 @@ Here’s a Wikipedia article about [the Broken Windows theory](https://www.wikiw
 
 When someone sees a dirty dish in the sink, they are more likely to leave a second dirty dish in the sink.
 
-This is why the signs need to be more thoughtful. “Don’t leave dishes in the sink” may not be enough in this case. I believe the signs should have a social component to it. In hotels, signage that encourages social norms have much more impact than signs that shame people into doing the right thing: [Changing Minds and Changing Towels | Psychology Today](https://www.psychologytoday.com/intl/blog/yes/200808/changing-minds-and-changing-towels)
+This is why the signs need to be more thoughtful. “Don’t leave dishes in the sink” may not be enough in this case. I believe the signs should have a social component to it. In hotels, signage that encourages social norms have much more impact than signs that shame people into doing the right thing: [Changing Minds and Changing Towels](https://www.psychologytoday.com/intl/blog/yes/200808/changing-minds-and-changing-towels)
 
 > We found that by simply changing a few words on the standard sign, guests who learned that the majority of their fellow guests had reused their towels (the social norms appeal) were 26% more likely than those who saw the basic environmental protection message to recycle their towels.
 
