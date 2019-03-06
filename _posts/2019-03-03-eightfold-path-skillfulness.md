@@ -6,7 +6,8 @@ summary:    "Focus, operational excellence, and a strong vision strengthen each 
 categories: management tech-leadership buddhism
 ---
 
-Introduction
+# Introduction
+
 Buddhism is a rich tradition concerned with an individual's ability to conduct an upright and skillful life. As such, it recommends [three ways to simultaneously train oneself](https://www.mctb.org/mctb2/table-of-contents/part-i-the-fundamentals/8-the-three-trainings-revisited/):
 
 > ...the scope of the first training, morality, is the ordinary world, the conventional world, the world that we are all familiar with before we even consider more specialized topics such as meditation. The goal is to think, speak, and act in ways that are conducive to the reduction of suffering as well as the welfare of ourselves and others. The scope of the second training, concentration, is to focus on very specific and limited objects of meditation and thus attain specific altered states of consciousness that cultivate positive mental qualities and reduce negative ones. The scope of the third training, that of insight or wisdom, is to shift to perceiving reality at the level of individual sensations, perceive their three characteristics, and thus attain profound insights into the nature of reality and realize stages of awakening.
