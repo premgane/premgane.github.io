@@ -59,5 +59,5 @@ The vision is a cohesive long-term view in total sync with business goals. Havin
 
 The product roadmap provides a certain amount of coherence for all team members to lift the short-term projects into the long-term context. Consequently, the team becomes more motivated to achieve day-to-day software reliability and short-term focus on the prioritized list of tasks.
 
-## In summation
+# In summation
 The old Buddhist teaching of the Three Practices, morality, focus, and insight, is a generalizable framework that a tech lead can apply to their team. Each aspect supports the other two and opens the way for the team to achieve its goals in a virtuous cycle.
