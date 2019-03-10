@@ -22,7 +22,9 @@ Prof. Radev’s course had a slight linguistics slant to it but was still based 
 
 ## Modern
 
-[For modern NLP, this grad-level deep learning course is a good introduction: http://cs224d.stanford.edu/](https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
+For modern NLP, [Stanford's CS224d](http://cs224d.stanford.edu/), a grad-level deep learning course, is a good introduction. [These are the lectures for this course.](https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
+
+A more updated version of the above is [Stanford's CS224n](http://web.stanford.edu/class/cs224n/), for which you'll find the lectures [in this Youtube playlist.](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 However, it requires you to already be comfortable with Machine Learning. For that, there's still no better introduction than [Prof. Andrew Ng's ML Coursera course](https://www.coursera.org/learn/machine-learning).
 
