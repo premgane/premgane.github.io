@@ -2,7 +2,7 @@
 layout:     post
 title:      Introductory courses in modern NLP
 date:       2019-03-05 21:41:00
-summary:    "The best ways to get started in NLP as of March 2019."
+summary:    "The best ways to get started in Natural Language Processing as of March 2019."
 categories: nlp learning
 ---
 
