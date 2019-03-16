@@ -4,6 +4,7 @@ _site
 _site/index.html
 .ruby-version
 .sass-cache
+index.html
 
 # Numerous always-ignore extensions
 *.diff
