@@ -3,7 +3,7 @@ layout:     post
 title:      The 4 Common Failure Modes of Team Communication
 date:       2016-11-14 08:42:00
 summary:    These are the most commonly-occurring types of miscommunication in software engineering teams.
-categories: teams communication
+tags:       teams communication
 ---
 
 <blockquote>

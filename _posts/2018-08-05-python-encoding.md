@@ -3,7 +3,7 @@ layout:     post
 title:      Unicode in Python
 date:       2018-08-05 17:25:00
 summary:    "Python, unicode, and how to deal with UTF-8."
-categories: python programming
+tags:       python programming
 ---
 
 To fully understand encoding and decoding strings, I recommend the following resources:

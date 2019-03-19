@@ -3,7 +3,7 @@ layout:     post
 title:      The advantage of old things
 date:       2019-03-17 09:04:00
 summary:    Age and wear can be an indicator of quality.
-categories: musings
+tags:       musings
 ---
 
 [In this video](https://youtu.be/uIFpeBwfvbc), a curator at The British Museum explains that the worn-down hilt of an Anglo-Saxon sword shows that it was beloved and meant a lot to its owner. An old sword, well-used and shabby, is dependable. It has experience, and it's not afraid to leave its youth behind.

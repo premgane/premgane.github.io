@@ -3,7 +3,7 @@ layout:     post
 title:      Installing an older version of Java on OSX using Homebrew
 date:       2017-11-11 16:50:00
 summary:    "How to use Homebrew Caskroom to install Java 8"
-categories: osx brew homebrew
+tags:       osx brew homebrew
 ---
 
 Homebrew is an extremely useful tool until it isn't. Sometimes, it can hinder you.

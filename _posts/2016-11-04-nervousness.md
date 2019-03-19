@@ -3,7 +3,7 @@ layout:     post
 title:      Nervousness and Fear
 date:       2016-11-04 06:42:00
 summary:    Nervousness and fear are related but separate. These are the techniques I use to deal with both of them.
-categories: personal psychology
+tags:       personal psychology
 ---
 
 <blockquote>

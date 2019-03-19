@@ -3,7 +3,7 @@ layout:     post
 title:      How to set up Sublime Text 3 for Python development
 date:       2019-03-16 20:15:00
 summary:    "Sublime Text 3 is a powerful IDE with some Python plugins."
-categories: programming python
+tags:       programming python
 ---
 
 Recently, I reconsidered my Sublime Text setup for programming in Python. I wanted to know the latest best practices, shortcuts, and plugins. Here are the results of my research.

@@ -3,7 +3,7 @@ layout:     post
 title:      Reinstalling Bundle to run Jekyll
 date:       2018-02-18 19:50:00
 summary:    "Fixing a strange issue with Ruby gems to fix a 'bad interpreter' error"
-categories: macos ruby gem
+tags:       macos ruby gem
 ---
 
 I use Jekyll for this blog, and this means dealing with Ruby in order to build this site on my local machine (a 2012 Macbook Pro running MacOS 10.13.3, High Sierra).

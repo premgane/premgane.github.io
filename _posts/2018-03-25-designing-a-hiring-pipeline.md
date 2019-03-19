@@ -3,7 +3,7 @@ layout:     post
 title:      Designing a Hiring Pipeline at a Startup
 date:       2018-03-25 11:20:00
 summary:    "The best practices at a large company may not work at a small-sized startup"
-categories: startups hiring
+tags:       startups hiring
 ---
 
 When hiring for an engineering position, most people would turn to the Internet to get up to date on the latest best practices. Most of the guidelines and advice on the Internet comes from large companies, so their advice is aimed at similarly large organizations.

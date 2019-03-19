@@ -3,7 +3,7 @@ layout:     post
 title:      The 10x Programmer
 date:       2017-05-09 23:16:00
 summary:    "10x Programmer Considered Harmful"
-categories: software-engineering programming
+tags:       software-engineering programming
 ---
 
 I saw a [blog post](http://antirez.com/news/112) recently about the factors that set apart a 10x programmer from the rest. I agreed with most of it, but like the comments say, the author should've included something about creating maintainable systems.

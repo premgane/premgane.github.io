@@ -3,7 +3,7 @@ layout:     post
 title:      Doing Research in the Industry
 date:       2018-04-28 15:46:00
 summary:    "Similarities and differences between academia and the industry"
-categories: research
+tags:       research
 ---
 
 In my career, I’ve worked in several research settings. In undergrad and during my Masters, I worked in research Natural Language Processing labs. I was a research assistant, so my tasks revolved around data gathering & cleaning, analysis, and annotation. I also did some software engineering and sysadmin work to run experiments.

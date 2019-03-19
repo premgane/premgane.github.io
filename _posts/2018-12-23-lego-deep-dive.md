@@ -3,7 +3,7 @@ layout:     post
 title:      How not to tell a fake when you don't see one
 date:       2018-12-23 09:54:00
 summary:    "A master class on deep diving."
-categories: design photoshop
+tags:       design photoshop
 ---
 
 If you have a few minutes to spare, I highly recommend this post: [LEGO’s letter to parents, and how not to tell a fake when you don’t see one](https://medium.com/@adambanksdotcom/legos-letter-to-parents-and-how-not-to-tell-a-fake-when-you-dont-see-one-2ca9dfe586d7)

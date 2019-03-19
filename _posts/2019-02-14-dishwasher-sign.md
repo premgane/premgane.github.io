@@ -3,7 +3,7 @@ layout:     post
 title:      Solving a problem
 date:       2019-02-14 22:30:00
 summary:    "Problem solving as a learnable skill."
-categories: critical-thinking problem-solving
+tags:       critical-thinking problem-solving
 ---
 
 

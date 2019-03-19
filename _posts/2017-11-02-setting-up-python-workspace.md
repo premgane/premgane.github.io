@@ -3,7 +3,7 @@ layout:     post
 title:      Setting up a Python workspace
 date:       2017-11-09 23:16:00
 summary:    "An efficient use of PyEnv and Jupyter"
-categories: programming python
+tags:       programming python
 ---
 
 [I found this post to be extremely useful.](https://medium.com/@henriquebastos/the-definitive-guide-to-setup-my-python-workspace-628d68552e14)

@@ -3,7 +3,7 @@ layout:     post
 title:      Belonging to an organization
 date:       2019-03-16 19:06:00
 summary:    "Consider thoughtfully how you see yourself in the world."
-categories: personal psychology
+tags:       personal psychology
 ---
 
 How do you see yourself in your professional life? Are you an employee? An entrepreneur? A shareholder?

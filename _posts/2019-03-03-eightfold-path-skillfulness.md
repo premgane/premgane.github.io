@@ -3,7 +3,7 @@ layout:     post
 title:      The Eightfold Path is a generalizable strategy
 date:       2019-03-03 18:34:00
 summary:    "Focus, operational excellence, and a strong vision strengthen each other."
-categories: management tech-leadership buddhism
+tags:       management tech-leadership buddhism
 ---
 
 # Introduction
