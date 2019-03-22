@@ -6,7 +6,7 @@ summary:    Think more carefully about your choices for funding.
 tags:       startups
 ---
 
-I found this interesting blog post on Hacker News: [Why I turned down my Y Combinator interview](https://www.facetdev.com/blog/posts/why-i-turned-down-my-y-combinator-interview/)
+I found this interesting blog post on Hacker News: [Why I Turned Down My Y Combinator Interview](https://www.facetdev.com/blog/posts/why-i-turned-down-my-y-combinator-interview/)
 
 Firstly, I’m tickled by irony of this being one of the top stories on Hacker News yesterday. It’s a post trying to convince you that your business probably doesn’t need Y Combinator.
 
