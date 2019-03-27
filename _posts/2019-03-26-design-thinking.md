@@ -20,7 +20,7 @@ It seems so minor, but a tiny aesthetic choice like that can make a huge differe
 
 I run across things like this from time to time. It could be a perfectly-designed product, a thoughtful piece of media, a well-presented dish, or an elegant programming language. It’s a rush of delight when you realize that the creators have paid attention to every detail and thought about it more than you or I ever could.
 
-Take the Solarized color scheme, for example. It’s a popular color scheme that nowadays comes bundled with software that you can reskin. This recent article is an ode to the kind of thoughtfulness I’m talking about: [The Very Mathematical History of a Perfect Color Combination | WIRED](https://www.wired.com/story/very-mathematical-history-perfect-color-combination/)
+Take the Solarized color scheme, for example. It’s a popular color scheme that nowadays comes bundled with software that you can reskin. This recent article is an ode to the kind of thoughtfulness I’m talking about: [The Very Mathematical History of a Perfect Color Combination.](https://www.wired.com/story/very-mathematical-history-perfect-color-combination/)
 
 Here’s an illustrative quote.
 
