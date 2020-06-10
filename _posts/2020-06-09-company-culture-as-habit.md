@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Company culture" is a complicated phrase that simply means "habits"
+title:      Company culture is a complicated phrase that simply means habits
 date:       2020-06-09 23:05:00
 summary:    Habits are the concrete results of an organization's values.
 tags:       management tech-leadership
