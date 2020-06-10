@@ -8,5 +8,7 @@ gem 'github-pages'
 # https://github.com/ffi/ffi/issues/608#issuecomment-364335111
 gem 'ffi', '1.9.18'
 
+
+gem "redcloth", ">= 4.3.0"
 gem "ffi", ">= 1.9.24"
 gem 'pkg-config'
