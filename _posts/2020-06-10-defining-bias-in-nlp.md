@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      What does it mean for a machine learning system to be biased?
+title:      "What does it mean for a machine learning system to be biased?"
 date:       2020-06-10 23:09:00
-summary:    Language (Technology) is Power: A Critical Survey of Bias in NLP
+summary:    "Language (Technology) is Power: A Critical Survey of Bias in NLP"
 tags:       machine-learning ethics ai
 ---
 
