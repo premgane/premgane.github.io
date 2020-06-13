@@ -5,7 +5,9 @@ permalink: /about/
 tags: about
 ---
 
-<a href="https://pronouns.me/he"><img src="http://gravatar.com/avatar/78d39db54dc3d3c93159454e257185ea?s=80"></a>
+<img class="img" src="http://gravatar.com/avatar/78d39db54dc3d3c93159454e257185ea?s=80">
+<br />
+<a href="https://pronouns.me/he">he/him</a>
 
 
 I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>, and this is my <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar Profile</a>.
@@ -20,9 +22,5 @@ Find me on <a href="http://instagram.com/premtagram" rel="me">Instagram</a>, <a 
 "me">Medium</a>, and my [old blog](http://premgane.wordpress.com). This is my <a href="https://keybase.io/pgkr" rel="me">Keybase</a>.
 
 <small>
-This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</small>
-
-<small>
-This site uses the [Pixyll](https://github.com/johnotander/pixyll) theme. 
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This site uses the [Pixyll](https://github.com/johnotander/pixyll) theme. 
 </small>
