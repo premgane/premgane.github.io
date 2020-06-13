@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-Hi, I'm Prem Ganeshkumar. I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>, and this is my <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar Profile</a>.
+Hi, I'm Prem Ganeshkumar (he/him). I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>, and this is my <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar Profile</a>.
 
 Before this, I was a Masters student in Computer Science at [Columbia University](http://columbia.edu/).
 
