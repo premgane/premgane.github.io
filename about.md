@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-Hi, I'm Prem Ganeshkumar. I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my [LinkedIn](http://www.linkedin.com/in/pgkmr), and this is my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ).
+Hi, I'm Prem Ganeshkumar. I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>, and this is my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ).
 
 Before this, I was a Masters student in Computer Science at [Columbia University](http://columbia.edu/).
 
@@ -13,7 +13,7 @@ Before this, I was a Masters student in Computer Science at [Columbia University
 
 2008-2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the [CLAIR research group](http://clairlib.org/).
 
-You can find my old blog [here](http://premgane.wordpress.com) and my Instagram [here](http://instagram.com/premtagram). This is my [Keybase](https://keybase.io/pgkr).
+You can find my Twitter <a href="http://twitter.com/premgane" rel="me">here</a>, old blog [here](http://premgane.wordpress.com) and my Instagram <a href="http://instagram.com/premtagram" rel="me">here</a>. This is my <a href="https://keybase.io/pgkr" rel="me">Keybase</a>.
 
 <small>
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
