@@ -16,7 +16,8 @@ Before this, I was a Masters student in Computer Science at [Columbia University
 
 2008-2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the [CLAIR research group](http://clairlib.org/).
 
-This is my can find my <a href="http://instagram.com/premtagram" rel="me">Instagram</a>, my <a href="http://twitter.com/premgane" rel="me">Twitter</a>, and my [old blog](http://premgane.wordpress.com). This is my <a href="https://keybase.io/pgkr" rel="me">Keybase</a>.
+Find me on <a href="http://instagram.com/premtagram" rel="me">Instagram</a>, <a href="http://twitter.com/premgane" rel="me">Twitter</a>, <a href="https://micro.blog/pgkr" rel="me">micro.blog</a>, <a href="https://medium.com/@pgkr" rel=
+"me">Medium</a>, and my [old blog](http://premgane.wordpress.com). This is my <a href="https://keybase.io/pgkr" rel="me">Keybase</a>.
 
 <small>
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
