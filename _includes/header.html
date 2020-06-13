@@ -9,6 +9,11 @@
       {% if site.show_social_icons %}
         {% include social_links.html %}
       {% endif %}
+      {% if site.include_invisible_social_icons %}
+      <div style="display: none">
+        {% include social_links.html %}
+      </div>
+      {% endif %}
     </div>
   </div>
 </header>
