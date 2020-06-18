@@ -21,12 +21,10 @@ Before this, I was a Masters student in Computer Science at [Columbia University
 
 ### Social media
 
-* <a href="https://www.linkedin.com/in/prem-ganeshkumar-6a3a2318" rel="me">LinkedIn</a>
-* <a href="http://pgkr.net" rel="me">micro.blog</a>
-* <a href="https://keybase.io/pgkr" rel="me">Keybase</a>
-* <a href="https://medium.com/@pgkr" rel="me">Medium</a>
-* <a href="http://twitter.com/premgane" rel="me">Twitter</a>
-* [My old WordPress blog](http://premgane.wordpress.com)
+* <a href="http://pgkr.net" rel="me">micro.blog</a> \| <a href="http://instagram.com/premtagram" rel="me">Instagram</a> \| <a href="http://twitter.com/premgane" rel="me">Twitter</a>
+* <a href="https://github.com/premgane/" rel="me">GitHub</a> \| <a href="https://keybase.io/pgkr" rel="me">Keybase</a>
+* <a href="https://medium.com/@pgkr" rel="me">Medium</a> \| [My old WordPress blog](http://premgane.wordpress.com)
+* <a href="https://www.linkedin.com/in/prem-ganeshkumar-6a3a2318" rel="me">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar</a>
 
 <small>
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This site uses the [Pixyll](https://github.com/johnotander/pixyll) theme. 
