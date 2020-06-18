@@ -1,6 +1,9 @@
 <div class="social-icons">
   <div class="social-icons-right">
     {% if site.github_username %}
+      <a class="fa fa-microblog" href="http://micro.blog/{{ site.microblog_username }}" rel="me"></a>
+    {% endif %}
+    {% if site.github_username %}
       <a class="fa fa-github" rel="me" href="https://github.com/{{ site.github_username }}"></a>
     {% endif %}
     {% if site.bitbucket_username %}

@@ -23,7 +23,7 @@ Before this, I was a Masters student in Computer Science at [Columbia University
 
 * <a href="https://www.linkedin.com/in/prem-ganeshkumar-6a3a2318" rel="me">LinkedIn</a>
 * <a href="http://twitter.com/premgane" rel="me">Twitter</a>
-* <a href="http://pgkr.micro.blog" rel="me">micro.blog</a>
+* <a href="http://pgkr.net" rel="me">micro.blog</a>
 * <a href="https://medium.com/@pgkr" rel=
 "me">Medium</a>
 * <a href="https://keybase.io/pgkr" rel="me">Keybase</a>
