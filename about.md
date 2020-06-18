@@ -9,7 +9,7 @@ tags: about
 <br />
 <a href="https://pronouns.me/he">he/him</a>
 
-## Bio
+### Bio
 
 I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>, and this is my <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar Profile</a>.
 
@@ -19,14 +19,13 @@ Before this, I was a Masters student in Computer Science at [Columbia University
 
 2008-2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the [CLAIR research group](http://clairlib.org/).
 
-## Social media
+### Social media
 
 * <a href="https://www.linkedin.com/in/prem-ganeshkumar-6a3a2318" rel="me">LinkedIn</a>
-* <a href="http://twitter.com/premgane" rel="me">Twitter</a>
 * <a href="http://pgkr.net" rel="me">micro.blog</a>
-* <a href="https://medium.com/@pgkr" rel=
-"me">Medium</a>
 * <a href="https://keybase.io/pgkr" rel="me">Keybase</a>
+* <a href="https://medium.com/@pgkr" rel="me">Medium</a>
+* <a href="http://twitter.com/premgane" rel="me">Twitter</a>
 * [My old WordPress blog](http://premgane.wordpress.com)
 
 <small>
