@@ -27,4 +27,4 @@ I would even expand this to say that any technology that has consequences on an 
 In addition the clear and concise letter, the extensive set of footnotes is an absolute treasure trove of references and reading materials in this newly bustling field of AI ethics. It contains references not just to books and academic papers, but also blog posts and other material that will keep me occupied for days. I plan to highlight the best thoughts and ideas I come across.
 
 
-[For more info, look at this Verge piece about this.](https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study)
+[For more info, look at this Verge piece about the open letter.](https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study)
