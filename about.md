@@ -11,7 +11,7 @@ tags: about
 
 ### Bio
 
-I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>, and this is my <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar Profile</a>.
+I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
 
 2014-2016, I was a Masters student in Computer Science at [Columbia University](http://columbia.edu/). I worked at the [Columbia Center for Computational Learning Systems](https://www.cs.columbia.edu/areas/speech/). One summer, I was a software engineering intern at [Yahoo](https://www.yahoo.com/).
 
