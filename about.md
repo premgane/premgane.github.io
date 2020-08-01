@@ -7,7 +7,7 @@ tags: about
 
 <img class="img" src="http://gravatar.com/avatar/78d39db54dc3d3c93159454e257185ea?s=80">
 <br />
-<a href="https://pronouns.me/he">he/him</a>
+<a href="https://pronouns.me/he">He/him</a> pronouns. My name rhymes with "frame."
 
 ### Bio
 
@@ -27,5 +27,5 @@ Before this, I was a Masters student in Computer Science at [Columbia University
 * <a href="https://www.linkedin.com/in/prem-ganeshkumar-6a3a2318" rel="me">LinkedIn</a> \| <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar</a>
 
 <small>
-This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This site uses the [Pixyll](https://github.com/johnotander/pixyll) theme. 
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://premgkumar.com" property="cc:attributionName" rel="cc:attributionURL">Prem Ganeshkumar</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. This site uses the [Pixyll](https://github.com/johnotander/pixyll) theme.
 </small>
