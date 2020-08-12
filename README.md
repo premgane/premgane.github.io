@@ -27,6 +27,7 @@ This will periodically check your markdown and regenerate the HTML.
 # To update
 
 ```sh
+gem update bundler
 bundle update github-pages
 ```
 
