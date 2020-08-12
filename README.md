@@ -30,4 +30,4 @@ This will periodically check your markdown and regenerate the HTML.
 bundle update github-pages
 ```
 
-This will grab all the latest package versions that `github-pages` requires.
+This will grab all the latest package versions that [`github-pages`](https://github.com/github/pages-gem) requires.
