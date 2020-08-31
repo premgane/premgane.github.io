@@ -11,13 +11,15 @@ tags: about
 
 ### Bio
 
-I'm the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/) in New York City. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
+I'm a Sr. Software Engineer on the Machine Learning Platform team at the [New York Times](https://nytimes.com) in NYC. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
 
-2014-2016, I was a Masters student in Computer Science at [Columbia University](http://columbia.edu/). I worked at the [Columbia Center for Computational Learning Systems](https://www.cs.columbia.edu/areas/speech/). One summer, I was a software engineering intern at [Yahoo](https://www.yahoo.com/).
+2016 to August 2020, I was the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/).
 
-2011-2014, I was a Software Engineer on the [Wish List team at Amazon.com](http://amazon.com/wishlist) in Seattle.
+2014 to 2016, I was a Masters student in Computer Science at [Columbia University](http://columbia.edu/). I worked at the [Columbia Center for Computational Learning Systems](https://www.cs.columbia.edu/areas/speech/). One summer, I was a software engineering intern at [Yahoo](https://www.yahoo.com/).
 
-2008-2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the CLAIR research group, which has now become [LILY](https://yale-lily.github.io/).
+2011 to 2014, I was a Software Engineer on the [Wish List team at Amazon.com](http://amazon.com/wishlist) in Seattle.
+
+2008 to 2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the CLAIR research group, which has now become [LILY](https://yale-lily.github.io/).
 
 ### Social media
 

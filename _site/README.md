@@ -23,3 +23,12 @@ bundle exec jekyll serve
 ```
 
 This will periodically check your markdown and regenerate the HTML.
+
+# To update
+
+```sh
+gem update bundler
+bundle update github-pages
+```
+
+This will grab all the latest package versions that [`github-pages`](https://github.com/github/pages-gem) requires.
