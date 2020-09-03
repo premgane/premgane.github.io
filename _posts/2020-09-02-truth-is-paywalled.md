@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The paywall is a barrier"
-date:       2020-07-31 21:33:00
+date:       2020-09-02 23:50:00
 summary:    "This op-ed presents a troubling state of affairs and offers up a radical solution."
 tags:       ethics tech
 ---
