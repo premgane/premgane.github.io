@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 
-<img class="img" src="http://gravatar.com/avatar/78d39db54dc3d3c93159454e257185ea?s=80">
+<img class="img" src="https://gravatar.com/avatar/78d39db54dc3d3c93159454e257185ea?s=80">
 <br />
 [He/him](https://pronouns.me/he) pronouns. My name rhymes with "frame."
 
