@@ -11,7 +11,7 @@ tags: about
 
 ### Bio
 
-I'm a Sr. Software Engineer on the Machine Learning Platform team at the [New York Times](https://nytimes.com) in NYC. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
+I'm a Senior Software Engineer on the Machine Learning Platform team at the [New York Times](https://nytimes.com) in NYC. This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
 
 2016 to August 2020, I was the Lead Natural Language Processing Engineer at [Agolo](http://agolo.com/).
 
