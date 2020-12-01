@@ -1,10 +1,7 @@
 <head>
     <!-- needs to be the first meta tag: https://infosec.mozilla.org/guidelines/web_security#http-strict-transport-security -->
-    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' https://gravatar.com https://i.creativecommons.org https://licensebuttons.net; script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' https://gravatar.com https://i.creativecommons.org https://licensebuttons.net; script-src 'self' https://cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;">
 
-    <meta http-equiv="Strict-Transport-Security" content="max-age=63072000">
-    <meta http-equiv="X-Content-Type-Options" content="nosniff">
-    <meta http-equiv="X-XSS-Protection" content="1; mode=block">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <meta charset="utf-8">
@@ -76,7 +73,7 @@
     };
     </script>
     <script type="text/javascript" id="MathJax-script" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-e/4/LvThKH1gwzXhdbY2AsjR3rm7LHWyhIG5C0jiRfn8AN2eTN5ILeztWw0H9jmN" crossorigin="anonymous">
     </script>
 
     {% endif %}
