@@ -7,6 +7,15 @@ baseurl:     ""
 url:         "https://premgkumar.com"
 date_format: "%b %-d, %Y"
 
+# Headers
+webrick:
+  headers:
+    Strict-Transport-Security: max-age=63072000
+    X-Content-Type-Options: nosniff
+    Content-Security-Policy: frame-ancestors 'none'
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account

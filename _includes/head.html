@@ -1,4 +1,7 @@
 <head>
+    <!-- needs to be the first meta tag: https://infosec.mozilla.org/guidelines/web_security#http-strict-transport-security -->
+    <meta http-equiv="Content-Security-Policy" content="default-src https:">
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
