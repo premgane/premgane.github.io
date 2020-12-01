@@ -26,17 +26,38 @@
     <link rel="stylesheet" href="{{ "/css/pixyll.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
 
     <!-- Fonts -->
+    <!-- Perf enhancements: https://csswizardry.com/2020/05/the-fastest-google-fonts/ -->
+    <link rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin />
+
     {% if site.extended_fonts %}
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Serif:900,900italic,300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:900,900italic,300,300italic&subset=latin-ext,latin&display=swap' rel="preload"
+      as="style" type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Serif:900,900italic,300,300italic&subset=latin-ext,latin&display=swap' rel="preload"
+      as="style" type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300italic&subset=latin-ext,latin&display=swap' rel='stylesheet' type='text/css' />
+
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:900,900italic,300,300italic&subset=latin-ext,latin&display=swap' rel='stylesheet' type='text/css' media="print" onload="this.media='all'" />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Serif:900,900italic,300,300italic&subset=latin-ext,latin&display=swap' rel='stylesheet' type='text/css' media="print" onload="this.media='all'" />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300italic&subset=latin-ext,latin&display=swap' rel='stylesheet' type='text/css' media="print" onload="this.media='all'" />
+
     {% else %}
-    <link href='https://fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Serif:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300italic' rel='stylesheet' type='text/css'>
+
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:900,900italic,300,300italic&display=swap' rel="preload"
+      as="style" type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Serif:900,900italic,300,300italic&display=swap' rel="preload"
+      as="style" type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300italic&display=swap' rel="preload"
+      as="style" type='text/css' />
+
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Sans:900,900italic,300,300italic&display=swap' rel='stylesheet' type='text/css' media="print" onload="this.media='all'" />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Serif:900,900italic,300,300italic&display=swap' rel='stylesheet' type='text/css' media="print" onload="this.media='all'" />
+    <link href='https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,300italic&display=swap' rel='stylesheet' type='text/css' media="print" onload="this.media='all'" />
+
     {% endif %}
+
     {% if site.show_social_icons or site.show_sharing_icons %}
       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     {% endif %}
