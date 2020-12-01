@@ -2,9 +2,9 @@
 title:       Prem Ganeshkumar
 email:       ganeprem+site@gmail.com
 author:      Prem Ganeshkumar
-description: 'Personal site of Prem Ganeshkumar, NLP engineer at Agolo.com'
+description: 'Personal site of Prem Ganeshkumar, Senior Engineer at The New York Times'
 baseurl:     ""
-url:         "http://premgkumar.com"
+url:         "https://premgkumar.com"
 date_format: "%b %-d, %Y"
 
 # Google services
