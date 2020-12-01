@@ -32,3 +32,7 @@ bundle update github-pages
 ```
 
 This will grab all the latest package versions that [`github-pages`](https://github.com/github/pages-gem) requires.
+
+# Jekyll cheatsheet
+
+https://devhints.io/jekyll
