@@ -49,6 +49,14 @@ textarea {
   width: 100%;
 }
 
+.form-stacked textarea {
+  resize: vertical;
+}
+
+.form-stacked #_gotcha {
+  display: none;
+}
+
 .field-light {
   background-color: white;
   transition: box-shadow .2s ease;
