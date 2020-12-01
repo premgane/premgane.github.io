@@ -27,3 +27,8 @@ footer {
   padding: $footer-padding;
   text-align: center;
 }
+
+footer .no-border {
+  text-decoration: none;
+  border: 0 none;
+}
