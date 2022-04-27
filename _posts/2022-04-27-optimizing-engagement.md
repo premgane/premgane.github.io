@@ -2,7 +2,7 @@
 layout:     post
 title:      "Optimizing for engagement metrics"
 date:       2022-04-27 11:49:00
-summary:    "An alternative approach to a personal presence online."
+summary:    "Taking a look at one of the most important metrics in designing a content delivery product."
 tags:       machine-learning ethics ai psychology
 ---
 
