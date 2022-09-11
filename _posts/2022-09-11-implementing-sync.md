@@ -6,7 +6,7 @@ summary:    "Using only golang's channels, you can implement the entire sync pac
 tags:       go programming problem-solving
 ---
 
-[This blog post from 2019 -- despite its unassuming name (*Go advanced concurrency patterns: part 3 (channels)*](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/) -- is something I found delightful and enlightening.
+[This blog post from 2019 titled *Go advanced concurrency patterns: part 3 (channels)*](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/) -- despite its unassuming name -- is something I found delightful and enlightening.
 
 ## Background
 
