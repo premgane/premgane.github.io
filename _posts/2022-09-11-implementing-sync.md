@@ -6,13 +6,15 @@ summary:    "Using only golang's channels, you can implement the entire sync pac
 tags:       go programming problem-solving
 ---
 
-[This blog post from 2019 titled *Go advanced concurrency patterns: part 3 (channels)*](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/) -- despite its unassuming name -- is something I found delightful and enlightening.
+[This blog post from 2019 titled *Go advanced concurrency patterns: part 3 (channels)*](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/) -- despite its unassuming name -- is an exercise I found fun to read and enlightening.
 
 ## Background
 
-Go has a package called `sync` in its standard library. It contains a few useful tools like `Mutex` and `WaitGroup`, allowing for traditional concurrency patterns in your code. These are called the concurrency primitives. They're definitely useful if you're thinking in the traditional object-oriented way -- for example, if you're coming from Java like I was.
+Go has a package called `sync` in its standard library. It contains a few useful tools like `Mutex` and `WaitGroup`, allowing for traditional concurrency patterns in your code. These are called the concurrency primitives. They're definitely useful if you're thinking in the traditional object-oriented way. At former roles, when I wrote in Java, I would have reached for these.
 
-However, a principle in idiomatic Go is to "Share by communicating." You'll see this repeated in many places. What this means is that when your instinct is to look for a primitive that will satisfy your requirements, see if there's a way to [use channels to send data to goroutines](https://golangdocs.com/channels-in-golang) instead.
+However, a principle in the culture of Go is to "share by communicating." You'll see this repeated in many places. This means that when your instinct is to look for a concurrency primitive that will satisfy your requirements, see if there's a way to [use channels](https://golangdocs.com/channels-in-golang) instead. Using channels to communicate data across goroutines (threads) makes software easier to reason about and debug. The handoffs (sending to and receiving from channels) are natural boundary points that help with clarity and simple design.
+
+I'm using the word *simple* here the way [Rich Hickey uses it in this talk](https://www.youtube.com/watch?v=LKtk3HCgTa8). Concurrent code is complex by default, and any opportunity to simplify is a gift. Channels are a natural simplifier.
 
 The above blog post takes the primitives in the `sync` package and implements each one using channels. This is a simple and effective demonstration of how expressive channels truly are. It's hard to appreciate channels, which seem like not that big of a deal at first glance, until you see idiomatic code like this.
 
