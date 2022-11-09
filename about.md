@@ -19,7 +19,7 @@ I'm a Senior Software Engineer on the Machine Learning Platform team at the [New
 
 2011 to 2014, I was a Software Engineer on the [Wish List team at Amazon.com](http://amazon.com/wishlist) in Seattle.
 
-2008 to 2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the CLAIR research group, which has now become [LILY](https://yale-lily.github.io/).
+2008 to 2011, I did my Bachelors in Computer Science at [University of Michigan, Ann Arbor](http://umich.edu/). There, I worked in the Computational Linguistics & AI Research (CLAIR) group.
 
 ### Social media
 
