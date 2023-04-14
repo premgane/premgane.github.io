@@ -23,7 +23,7 @@ I'm a Senior Software Engineer on the Machine Learning Platform team at the [New
 
 ### Social media
 
-* <a href="http://pgkr.net" rel="me">micro.blog</a> \| <a rel="me" href="https://indieweb.social/@pgkr">Mastodon</a> \| <a href="http://instagram.com/premtagram" rel="me">Instagram</a> \| <a href="http://twitter.com/premgane" rel="me">Twitter</a>
+* <a rel="me" href="https://indieweb.social/@pgkr">Mastodon</a> \| <a href="http://instagram.com/premtagram" rel="me">Instagram</a> \| <a href="http://twitter.com/premgane" rel="me">Twitter</a>
 * <a href="https://github.com/premgane/" rel="me">GitHub</a> \| <a href="https://keybase.io/pgkr" rel="me">Keybase</a>
 * <a href="https://medium.com/@pgkr" rel="me">Medium</a> \| [My old WordPress blog](http://premgane.wordpress.com)
 * <a href="https://www.linkedin.com/in/prem-ganeshkumar-6a3a2318" rel="me">LinkedIn</a> \| <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F41alnNFrAO2zZnC_j5WPd8xSWpQaKHGifWWgg6Z2WYJjM_OXHErXWEY-eFY-84Wv8XYKEJRjSnUSvBviRaDAfpPr5ESQ&user=ewXjGD4AAAAJ" rel="me">Google Scholar</a>
