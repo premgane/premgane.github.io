@@ -1,4 +1,4 @@
-My personal site, http://premgkumar.com
+My personal site, http://prem-kumar.com
 
 # To install
 

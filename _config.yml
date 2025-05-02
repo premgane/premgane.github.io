@@ -4,7 +4,7 @@ email:       ganeprem+site@gmail.com
 author:      Prem Ganeshkumar
 description: 'Personal site of Prem Ganeshkumar, Senior Engineer at The New York Times'
 baseurl:     ""
-url:         "https://premgkumar.com"
+url:         "https://prem-kumar.com"
 date_format: "%b %-d, %Y"
 
 webrick:
