@@ -1,8 +1,8 @@
 # Site settings
-title:       Prem Ganeshkumar
+title:       Prem G. Kumar
 email:       ganeprem+site@gmail.com
-author:      Prem Ganeshkumar
-description: 'Personal site of Prem Ganeshkumar'
+author:      Prem G. Kumar
+description: 'Personal site of Prem G. Kumar'
 baseurl:     ""
 url:         "https://prem-kumar.com"
 date_format: "%b %-d, %Y"
