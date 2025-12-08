@@ -11,7 +11,9 @@ tags: about
 
 ### Bio
 
-I'm the CTO and co-founder of [PlumAI](https://getplum.ai). This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
+I am a Engineering Manager and Software Architect in the AI Center of Excellence at [CloudOne Digital](https://cloudonedigital.com/). This is my <a href="http://www.linkedin.com/in/pgkmr" rel="me">LinkedIn</a>.
+
+From 2024 - July 2025, I was the CTO and co-founder of [PlumAI](https://getplum.ai).
 
 From 2020 - May 2024, I was a Senior Software Engineer on the Machine Learning Platform team at the [New York Times](https://nytimes.com) in NYC.
 
